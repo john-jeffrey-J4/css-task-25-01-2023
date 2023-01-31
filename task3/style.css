@@ -1,0 +1,9 @@
+#planet-img{
+   position:absolute;
+   width:100px;
+   
+}
+.grid-pattern{
+    display:grid;
+    grid-template-columns:90% 10% ;
+}

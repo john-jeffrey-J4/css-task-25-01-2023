@@ -1,0 +1,29 @@
+.main{
+    background-color: black;
+
+
+}
+.top{
+    padding-top:10px;
+}
+.number{
+    color:white;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: arial;
+    text-align:center;
+    letter-spacing: 20px;
+    margin:0;
+}
+.block{
+    background-color: rgb(16, 197, 243);
+    border:0;
+    padding:10px;
+    height:10px;
+    width:30%;
+    margin:auto;
+    text-align: center;
+}
+.bottom{
+    padding-bottom:10px;
+}
